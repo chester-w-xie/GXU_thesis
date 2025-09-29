@@ -1,0 +1,333 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{_}{online}{}
+      \list{institution}{1}{%
+        {GitHub}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \list{organization}{1}{%
+        {GitHub}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{title}{mengchaoheng - {{华南理工大学硕/博士学位论文LaTeX模板}}}
+      \field{usera}{EB}
+      \field{userd}{chinese}
+      \verb{urlraw}
+      \verb https://github.com/alwintsui
+      \endverb
+      \verb{url}
+      \verb https://github.com/alwintsui
+      \endverb
+      \keyw{_}
+    \endentry
+    \entry{_g}{online}{}
+      \list{language}{1}{%
+        {english}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{title}{{{CTAN}}: {{Package}} Lshort-Zh-Cn}
+      \field{usera}{EB}
+      \field{userd}{english}
+      \verb{urlraw}
+      \verb https://ctan.org/pkg/lshort-zh-cn
+      \endverb
+      \verb{url}
+      \verb https://ctan.org/pkg/lshort-zh-cn
+      \endverb
+      \keyw{_g}
+    \endentry
+    \entry{_c}{online}{}
+      \list{institution}{1}{%
+        {始终}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \list{organization}{1}{%
+        {始终}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{langid}{zh-CN}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{title}{一份其实很短的 LaTeX 入门文档}
+      \field{usera}{EB}
+      \field{userd}{chinese}
+      \verb{urlraw}
+      \verb https://liam.page/2014/09/08/latex-introduction/index.html
+      \endverb
+      \verb{url}
+      \verb https://liam.page/2014/09/08/latex-introduction/index.html
+      \endverb
+      \keyw{_c}
+    \endentry
+    \entry{_m}{online}{}
+      \list{language}{1}{%
+        {english}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Zotero | {{Downloads}}}
+      \field{usera}{EB}
+      \field{userd}{english}
+      \verb{urlraw}
+      \verb https://www.zotero.org/download/
+      \endverb
+      \verb{url}
+      \verb https://www.zotero.org/download/
+      \endverb
+      \keyw{_m}
+    \endentry
+    \entry{_k}{online}{}
+      \list{language}{1}{%
+        {japanese}%
+      }
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{languageid}{japanese}
+      \field{lansortorder}{2}
+      \field{title}{Struggle\_with\_me的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯\textasciitilde{} {{Bilibili}}}
+      \field{usera}{EB}
+      \field{userd}{japanese}
+      \verb{urlraw}
+      \verb https://space.bilibili.com/452736484?from=search&seid=12208069428001748893
+      \endverb
+      \verb{url}
+      \verb https://space.bilibili.com/452736484?from=search&seid=12208069428001748893
+      \endverb
+      \keyw{_k}
+    \endentry
+    \entry{_h}{online}{}
+      \list{language}{1}{%
+        {english}%
+      }
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Mathpix {{Snip}}}
+      \field{usera}{EB}
+      \field{userd}{english}
+      \verb{urlraw}
+      \verb https://mathpix.com/
+      \endverb
+      \verb{url}
+      \verb https://mathpix.com/
+      \endverb
+      \keyw{_h}
+    \endentry
+    \entry{_a}{online}{}
+      \list{institution}{1}{%
+        {GitHub}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{organization}{1}{%
+        {GitHub}%
+      }
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Yecfly - {{Overview}}}
+      \field{usera}{EB}
+      \field{userd}{english}
+      \verb{urlraw}
+      \verb https://github.com/yecfly
+      \endverb
+      \verb{url}
+      \verb https://github.com/yecfly
+      \endverb
+      \keyw{_a}
+    \endentry
+    \entry{_d}{online}{}
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{title}{莲枝专栏--关于 Hyperref 的二三事 - {{LaTeX科技排版工作室}}}
+      \field{usera}{EB}
+      \field{userd}{chinese}
+      \verb{urlraw}
+      \verb https://www.latexstudio.net/archives/4800.html
+      \endverb
+      \verb{url}
+      \verb https://www.latexstudio.net/archives/4800.html
+      \endverb
+      \keyw{_d}
+    \endentry
+    \entry{Renduchintala_2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c34d4d5c239afd79bdb802e69c1908e6}{%
+           family={Renduchintala},
+           familyi={R\bibinitperiod},
+           given={Ankit},
+           giveni={A\bibinitperiod}}}%
+        {{hash=06f4f6e69e6d9a8fc12628aa4b6b6f2b}{%
+           family={Jahan},
+           familyi={J\bibinitperiod},
+           given={Farha},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5c278b6a9f60b26731f891f6dbb5c3bd}{%
+           family={Khanna},
+           familyi={K\bibinitperiod},
+           given={Raghav},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3fe1e2489a99c26f9efd321599859f49}{%
+           family={Javaid},
+           familyi={J\bibinitperiod},
+           given={Ahmad\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \name{namea}{4}{}{%
+        {{hash=c34d4d5c239afd79bdb802e69c1908e6}{%
+           family={Renduchintala},
+           familyi={R\bibinitperiod},
+           given={Ankit},
+           giveni={A\bibinitperiod}}}%
+        {{hash=06f4f6e69e6d9a8fc12628aa4b6b6f2b}{%
+           family={Jahan},
+           familyi={J\bibinitperiod},
+           given={Farha},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5c278b6a9f60b26731f891f6dbb5c3bd}{%
+           family={Khanna},
+           familyi={K\bibinitperiod},
+           given={Raghav},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3fe1e2489a99c26f9efd321599859f49}{%
+           family={Javaid},
+           familyi={J\bibinitperiod},
+           given={Ahmad\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{56f67436246206eb81bc0cc3d5181734}
+      \strng{fullhash}{a89e9e8fd071e4068e5e61a4d9d9dd92}
+      \strng{bibnamehash}{94154cb56226e57a6c5f0ce5432e619c}
+      \strng{authorbibnamehash}{94154cb56226e57a6c5f0ce5432e619c}
+      \strng{authornamehash}{56f67436246206eb81bc0cc3d5181734}
+      \strng{authorfullhash}{a89e9e8fd071e4068e5e61a4d9d9dd92}
+      \strng{nameabibnamehash}{94154cb56226e57a6c5f0ce5432e619c}
+      \strng{nameanamehash}{56f67436246206eb81bc0cc3d5181734}
+      \strng{nameafullhash}{a89e9e8fd071e4068e5e61a4d9d9dd92}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Digital Investigation}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{title}{A Comprehensive Micro Unmanned Aerial Vehicle ({{UAV}}/{{Drone}}) Forensic Framework}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{30}
+      \field{pages}{52\bibrangedash 72}
+      \range{pages}{21}
+      \keyw{Renduchintala_2019}
+    \endentry
+    \entry{milz2020design}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=998392f563b9fbe0841ba8c974b94222}{%
+           family={Milz},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{namea}{1}{}{%
+        {{hash=998392f563b9fbe0841ba8c974b94222}{%
+           family={Milz},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Technical University of Munich}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{998392f563b9fbe0841ba8c974b94222}
+      \strng{fullhash}{998392f563b9fbe0841ba8c974b94222}
+      \strng{bibnamehash}{998392f563b9fbe0841ba8c974b94222}
+      \strng{authorbibnamehash}{998392f563b9fbe0841ba8c974b94222}
+      \strng{authornamehash}{998392f563b9fbe0841ba8c974b94222}
+      \strng{authorfullhash}{998392f563b9fbe0841ba8c974b94222}
+      \strng{nameabibnamehash}{998392f563b9fbe0841ba8c974b94222}
+      \strng{nameanamehash}{998392f563b9fbe0841ba8c974b94222}
+      \strng{nameafullhash}{998392f563b9fbe0841ba8c974b94222}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Design and Evaluation of a Unified Control Framework for Electric Vertical Take-off and Landing Vehicles}
+      \field{usera}{D}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \keyw{milz2020design}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

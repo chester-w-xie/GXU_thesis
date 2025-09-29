@@ -1,0 +1,41 @@
+\contentsline {chapter}{摘\hskip 1em\relax 要}{I}{chapter*.1}%
+\contentsline {chapter}{Abstract}{II}{chapter*.2}%
+\contentsline {chapter}{插图目录}{V}{chapter*.4}%
+\contentsline {chapter}{表格目录}{VI}{chapter*.5}%
+\contentsline {chapter}{主要符号对照表}{VII}{chapter*.6}%
+\contentsline {chapter}{英文缩略词}{VIII}{chapter*.8}%
+\contentsline {chapter}{\numberline {1}绪论}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}研究背景和意义}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}研究背景和意义}{1}{subsection.1.1.1}%
+\contentsline {chapter}{\numberline {2}模板简介}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}主文件}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}章节文件}{6}{section.2.2}%
+\contentsline {chapter}{\numberline {3}常用环境及参考文献设置}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}图}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}表}{10}{section.3.2}%
+\contentsline {section}{\numberline {3.3}公式}{11}{section.3.3}%
+\contentsline {section}{\numberline {3.4}定理}{14}{section.3.4}%
+\contentsline {section}{\numberline {3.5}参考文献}{15}{section.3.5}%
+\contentsline {chapter}{\numberline {4}列举环境和算法环境}{30}{chapter.4}%
+\contentsline {section}{\numberline {4.1}调整间距}{30}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}垂直间距}{32}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}水平间距}{32}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}enumerate标签样式}{34}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}小括号阿拉伯数字}{34}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}斜体字母}{34}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}大写罗马字母}{34}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}算法环境}{35}{section.4.3}%
+\contentsline {chapter}{结\hskip 1em\relax 论}{37}{chapter*.31}%
+\contentsline {chapter}{参考文献}{38}{section*.32}%
+\contentsline {chapter}{附\hskip 1em\relax 录 1}{39}{chapter*.34}%
+\contentsline {section}{\numberline {1.1}测试一级标题 section}{39}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}测试二级标题 subsection}{39}{subsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1.1}测试三级标题 subsubsection}{39}{subsubsection.1.1.1.1}%
+\contentsline {section}{\numberline {1.2}测试测试测试}{40}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}测试测试测试}{40}{subsection.1.2.1}%
+\contentsline {chapter}{附\hskip 1em\relax 录 2}{41}{chapter*.35}%
+\contentsline {section}{\numberline {2.1}测试测试测试}{41}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}测试测试测试}{41}{subsection.2.1.1}%
+\contentsline {chapter}{攻读学位期间发表论文与研究成果清单}{42}{chapter*.36}%
+\contentsline {chapter}{致\hskip 1em\relax 谢}{43}{chapter*.37}%
+\contentsfinish 
